@@ -19,7 +19,6 @@ int main() {
     {
         return 1;
     }
-
     json input;
     fin >> input;
     fin.close();
